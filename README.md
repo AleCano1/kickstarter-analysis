@@ -1,7 +1,8 @@
 # An analysis of Kickstarter Campaigns
+Deep analysis of different campaigns database in differents countries, and their reference in many concepts used to determine the best choice of Louise´s fundraising.
+---
 FINDINGS
 ---
-Deep analysis of different campaigns database in differents countries, and their reference in many concepts used to determine the best choice of Louise´s fundraising.
 ![Thater category] (C:\Users\Alejandra Cano\Desktop\Analysis Projects\Crowdfunding Analysis/thater category.png)
 Talking about Theater category, we could see that the most success campaign in Theater category is play having 71% of the total succes,but also it has most failed having 78% of the total failed, as well, we can see that theater is the most succesful category in Great Britain, and plays is the most sucessful sub category in GB as US.
 Louise is interested in US market with the sub category plays, while, subcategory musical in GB market.
