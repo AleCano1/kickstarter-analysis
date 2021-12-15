@@ -1,4 +1,5 @@
 # An analysis of Kickstarter Campaigns
+FINDINGS
 ---
 Deep analysis of different campaigns database in differents countries, and their reference in many concepts used to determine the best choice of Louise´s fundraising.
 ![Thater category] (C:\Users\Alejandra Cano\Desktop\Analysis Projects\Crowdfunding Analysis/thater category.png)
